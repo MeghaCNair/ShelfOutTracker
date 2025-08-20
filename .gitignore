@@ -1,0 +1,85 @@
+# ----------------------
+# Global ignores
+# ----------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+*.log
+logs/
+*.pid
+*.seed
+*.out
+*.gz
+*.lock
+
+# ----------------------
+# Node / Frontend
+# ----------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+dist/
+dist-ssr/
+.next/
+out/
+coverage/
+.cache/
+.tmp/
+build/
+
+# lock files (optional – if you don’t want to pin versions)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# ----------------------
+# Python / Backend
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+.cache/
+
+# Virtual envs
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# ----------------------
+# Editors / IDEs
+# ----------------------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml

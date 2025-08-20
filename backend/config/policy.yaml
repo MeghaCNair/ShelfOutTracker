@@ -1,0 +1,8 @@
+risk_threshold: 60
+safety_buffer_days: 2
+velocity_window_days: 7
+reorder_multiple: 1
+min_order_qty: 0
+max_order_qty: 500
+alert_channel: "#shelf-out-watcher"
+auto_approve: true

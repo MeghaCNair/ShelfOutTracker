@@ -1,0 +1,7 @@
+[
+    {"sku_id":"A123","location_id":"SFO1","lead_time_days":3,
+     "open_pos":[{"qty":30,"eta":"2025-08-21"}]},
+    {"sku_id":"A124","location_id":"SFO1","lead_time_days":4,
+     "open_pos":[{"qty":0,"eta":null}]}
+  ]
+  
