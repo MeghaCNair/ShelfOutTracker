@@ -1,4 +1,4 @@
-
+### Problem Statement
 **Goal:** detect products at risk of going **out‑of‑stock (OOS)** within the next 24–72 hours, then **recommend the smallest, fastest fix** (replenish qty, substitute, or de‑list), and route it for approval.
 
 **Business impact:** fewer empty shelves (↑ revenue, ↑ customer satisfaction), lower firefighting (↑ ops efficiency), and better working capital (don’t over‑order).
